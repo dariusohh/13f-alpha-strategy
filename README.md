@@ -4,6 +4,13 @@ This is the code source files for the dissertation project titled "Equity Portfo
 
 Please read "Final_Report.pdf" for the full dissertation report, or "Final_Presentation.pdf" for a summarised version of the research
 
+The order of the code is as follows 
+1. EDA - Raw 13F.ipynb
+2. Cleaner - Raw 13F.ipynb
+3. EDA - Cleaned Data.ipynb
+4. Feature Engineering.ipynb
+5. Returns Forecast Model - [Continuous/Continuous & Subfund]
+
 The following datasets referenced in the code are too large in size to be uploaded on github
 - raw_data/close_data.csv
 - raw_data/holdings.csv
