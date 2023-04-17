@@ -2,7 +2,7 @@
 
 This is the code source files for the dissertation project titled "Equity Portfolio Construction using Quarterly Institutional Holdings Data". 
 
-Please read "Final_Report.pdf" for more information
+Please read "Final_Report.pdf" for the full dissertation report, or "Final_Presentation.pdf" for a summarised version of the research
 
 The following datasets referenced in the code are too large in size to be uploaded on github
 - raw_data/close_data.csv
